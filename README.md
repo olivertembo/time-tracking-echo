@@ -21,7 +21,9 @@ php artisan migrate
 php artisan db:seed
 ```
 open app on localhost:80
-Register to login
+login with test user:
+ email: test@email.com
+ password: password
 
 ## Build the app
 
