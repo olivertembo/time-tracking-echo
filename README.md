@@ -15,6 +15,13 @@ composer install
 npm run dev
 docker compose up
 ```
+Seed
+```bash
+php artisan migrate
+php artisan db:seed
+```
+open app on localhost:80
+Register to login
 
 ## Build the app
 
